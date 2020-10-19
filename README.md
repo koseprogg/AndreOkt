@@ -34,6 +34,7 @@ De 7 vinnerscenarioene i Tic Tac Toe: `[0, 1, 2], [3, 4, 5],[6, 7, 8], [0, 3, 6]
 
 
 Ressurser: 
+- https://learnxinyminutes.com/docs/javascript/
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 
 
